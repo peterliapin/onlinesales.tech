@@ -17,3 +17,6 @@ public
 
 # Mac files
 .DS_Store
+
+# typesctipt
+src/gatsby-types.d.ts
